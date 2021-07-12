@@ -1,0 +1,10 @@
+9*10
+         
+ FFFFFFF 
+ FFF0FFF 
+ FFFFFFF 
+ FFFFFFF 
+ FFFFFFF 
+ FFF3FFF 
+ FFFFFFF 
+         

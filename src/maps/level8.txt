@@ -1,0 +1,94 @@
+125*93
+                                                                                                                             
+                               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                   
+                               FFF2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                   
+                               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F                   
+                               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                   
+                               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                   
+                               FFFFFFF                                                                                       
+                               FFFFFFF                                                                                       
+                               FFFFFFF                                                                                       
+                               FFFFFFF                                                                                       
+                       FFFFFFFFFFFFFFFFFFFFFFFF                                                                              
+                       FFFFFFFFFFFFFFFFFFFFFFFF                                                                              
+                       FFFFFFFFFFFFFFFFFFFFFFFF                                                                              
+                       FFFFFFFFFFFFFFFFFFFFFFFF                                                                              
+                       FFFFFFFFFFFFFFFFFFFFFFFF                                                                              
+ FFFFFF                FFFFFFFFFFFFFFFFFFFFFFFF                                                                              
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                       FFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                       FFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFF                FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFF                FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFF                FFFFFFFFFFFFFFFFFFFFFFFF                       FFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFF                                                               FFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFF                                                               FFFFFFFFFFFFFFFFFFFFFFFFFFF                            
+ FFFFFF                                                               FFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFF2FFFFFFF  
+ FFFFFF                                                               FFFFFFFFFFFFFFFFFFFFFFFFFFF          2FFFFFFFFFFFFFF2  
+ FFFFFF                         FFFF2FFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFF  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF          2FFFFFFFFFFFFFF2  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFF  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF          2FFFFFFFFFFFFFF2  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFF  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF          2FFFFFFFFFFFFFF2  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFF  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF                FFFFF       
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFF  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFF  
+ FFFFFF                         FFFFFFFFFFFFFFFFFFFFFFFFF2FFF                  FFFFF                       2FFFFFFFFFFFFFF2  
+ FFFFFFFFFFFFFFF                         FFFFFFFFF                             FFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF                         FFFFFFFFF                             FFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF                         FFFFFFFFF                             FFFFF                             FFFFF       
+ FFFFFFFFFFFFFFF                         FFFFFFFFF                             FFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF                         FFFFFFFFF                             FFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF            FFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF            FFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                       FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF         FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFFFFFFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFMFFFFFFFFFFFFFFFFFFFF                          FFFFF                   FFFFFF  
+ FFFFFFFFFFFFFFF          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFF2FFFFFFF  
+                          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFFFFFFFFFF  
+                          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFFFFFFFFFF  
+                          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         FFFFFFFFFFFFFFFF  
+                          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                          FFFFF         2FFFFFFFFFFFFFF2  
+     FFFFFFF              FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFFFFFFFFFFFF         FFFFFFFFFFFFFFFF  
+     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFFFFFFFFFFFF         FFFFFFFFFFFFFFFF  
+     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFFFFFFFFFFFF         FFFFFFFFFFFFFFFF  
+     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFF                   FFFFFFFF2FFFFFFF  
+     FFFFFFF              FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFF                                     
+     FFFFFFF              FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFF                                     
+     FFFFFFF              FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFF                                     
+     FFFFFFF              FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 FFFF                                     
+     FFFFFFF                                                                        FFFF                                     
+     FFFFFFF                                                                    FFFFFFFFFFFF                                 
+     FFFFFFF                                                                    FFFFFFFFFFFF         FFFFFFFFFF              
+     FFFFFFF                                                                    FFFFFFFFFFFF         FFFFFFFFFF              
+     FFFFFFF                                                                    FFFFFFFFFFFF         FFFFFFFFFF              
+     FFFFFFF                                                                    FFFFFFFFFFFF         FFFFFFFFFF              
+     FFFFFFFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF              
+     FFFFFFFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2              
+     FFFFFFFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF              
+     FFFFFFF                                             FFFFFFF                FFFFFFFFFFFF         FFFFFFFFFF              
+     FFFFFFF                                             FFFFFFF                FFFFFFFFFFFF         FFFFFFFFFF              
+     FFFFFFF                                             FFFFFFF                FFFFFF3FFFFF         FFFFFFFFFF              
+     FFFFFFF                                             FFFFFFF                                                             
+     FFFFFFF                                             FFFFFFF                                                             
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                                      
+                                                                                                                             
